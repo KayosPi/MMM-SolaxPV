@@ -67,7 +67,7 @@ Add this to your `config.js`:
 
 | Option               | Description |
 |----------------------|-------------|
-| `apiToken`           | Your installer-level Solax API token |
+| `apiToken`           | Your Solax API token |
 | `serialNumber`       | Inverter SN (from SolaxCloud) |
 | `showGraphicalDisplay` | Show graphical flowchart instead of text |
 | `showPVGeneration`   | Current solar generation (W) |
