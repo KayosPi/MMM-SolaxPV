@@ -18,7 +18,7 @@ MagicMirror² module to display real-time solar data from a single **Solax inver
 
 ```bash
 cd ~/MagicMirror/modules
-git clone https://github.com/YOUR_USERNAME/MMM-SolaxPV.git
+git clone https://github.com/KayosPi/MMM-SolaxPV.git
 ```
 
 ---
