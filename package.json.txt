@@ -1,0 +1,9 @@
+{
+  "name": "MMM-SolaxPV2",
+  "version": "1.0.0",
+  "description": "MagicMirror² module to display real-time data from SolaxCloud API v2",
+  "main": "MMM-SolaxPV2.js",
+  "author": "Stuart Burrows",
+  "license": "MIT",
+  "dependencies": {}
+}

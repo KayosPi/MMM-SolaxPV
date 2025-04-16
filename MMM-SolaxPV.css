@@ -1,17 +1,23 @@
+/* MMM-SolaxPV.css — Updated styling for SolaxPV2 MagicMirror module */
 
 .solax-card {
-  background-color: #222;
-  color: #fff;
+  /* Removed grey background */
+  background-color: transparent;
+
+  color: #fff;                  /* White text */
   padding: 10px;
   border-radius: 10px;
   max-width: 320px;
   margin: 0 auto;
-  font-size: 16px;
+
+  /* Match other modules like weather and calendar */
+  font-size: 18px;              /* Slightly increased */
+  line-height: 1.4;
 }
 
 .solax-title {
   font-weight: bold;
-  font-size: 18px;
+  font-size: 20px;              /* Slightly larger title */
   text-align: center;
   margin-bottom: 10px;
 }
